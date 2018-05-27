@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CabList</string>
+    <string name="minutes_away">%1$dm</string>
+    <string name="hours_away">%1$dh%2$dm</string>
+</resources>
